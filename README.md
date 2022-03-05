@@ -5,3 +5,5 @@
 [2. 소스 트리와 빌드 트리](https://blog.naver.com/lifeisforu/222661257174)
 
 [3. 바이너리 타깃](https://blog.naver.com/lifeisforu/222663119121)
+
+[4. STATIC 타깃 예제](https://blog.naver.com/lifeisforu/222664747684)
