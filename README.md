@@ -9,3 +9,5 @@
 [4. STATIC 타깃 예제](https://blog.naver.com/lifeisforu/222664747684)
 
 [5. SHARED 타깃 예제](https://blog.naver.com/lifeisforu/222665130680)
+
+[6. MODULE 타깃 예제](https://blog.naver.com/lifeisforu/222665416755)
