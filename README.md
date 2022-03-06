@@ -7,3 +7,5 @@
 [3. 바이너리 타깃](https://blog.naver.com/lifeisforu/222663119121)
 
 [4. STATIC 타깃 예제](https://blog.naver.com/lifeisforu/222664747684)
+
+[5. SHARED 타깃 예제](https://blog.naver.com/lifeisforu/222665130680)
