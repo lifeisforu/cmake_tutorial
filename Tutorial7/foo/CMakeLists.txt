@@ -1,0 +1,1 @@
+add_library(foo STATIC foo.cpp)
