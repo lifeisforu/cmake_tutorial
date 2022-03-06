@@ -1,4 +1,4 @@
-// A.cpp
+// foo.cpp
 
 #include "foo.h"
 #include <iostream>

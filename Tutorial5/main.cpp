@@ -1,4 +1,4 @@
-// B.cpp
+// main.cpp
 
 #include "./foo/foo.h"
 
