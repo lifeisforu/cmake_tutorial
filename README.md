@@ -15,3 +15,5 @@
 [7. 서브 디렉토리](https://blog.naver.com/lifeisforu/222665526552)
 
 [8. CMake 모듈](https://blog.naver.com/lifeisforu/222667445988)
+
+[9-1. CMake 언어 : 소스 파일의 종류, Encoding, EBNF](https://blog.naver.com/lifeisforu/222668116181)
