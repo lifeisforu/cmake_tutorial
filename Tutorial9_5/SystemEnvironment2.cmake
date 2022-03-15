@@ -1,0 +1,2 @@
+set(ENV{BOOST_ROOT} "$ENV{BOOST_ROOT}\;C:\\MyDir")
+message($ENV{BOOST_ROOT})
