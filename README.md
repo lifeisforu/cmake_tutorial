@@ -22,4 +22,4 @@
 
 [9-3. CMake 언어 : 함수 범위, 디렉토리 범위](https://blog.naver.com/lifeisforu/222670963938)
 
-[9-4. CMake 언어 : CMakeCache.txt, 지속적인 캐시](https://blog.naver.com/lifeisforu/222671322918)
+[9-4. CMake 언어 : CMakeCache.txt 와 캐시](https://blog.naver.com/lifeisforu/222671322918)
