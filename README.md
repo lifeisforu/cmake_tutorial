@@ -25,3 +25,5 @@
 [9-4. CMake 언어 : CMakeCache.txt 와 캐시](https://blog.naver.com/lifeisforu/222671322918)
 
 [9-5. CMake 언어 : 환경 변수](https://blog.naver.com/lifeisforu/222673732526)
+
+[9-6. CMake 언어 : 조건 블록](https://blog.naver.com/lifeisforu/222676597839)
