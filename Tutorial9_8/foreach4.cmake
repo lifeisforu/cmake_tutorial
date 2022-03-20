@@ -1,0 +1,5 @@
+foreach(item "a b" "c\;d" "e;f" )
+	foreach(sub_item ${item})
+		message(${sub_item})
+	endforeach()
+endforeach()

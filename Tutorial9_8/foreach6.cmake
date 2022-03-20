@@ -1,0 +1,7 @@
+set(MyList a b c d e)
+list(LENGTH MyList MyListLength)
+math(EXPR LoopStop "${MyListLength} - 1")
+foreach(i RANGE 0 ${LoopStop} 2)
+	list(GET MyList ${i} item)
+	message(${item})
+endforeach()

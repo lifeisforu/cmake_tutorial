@@ -1,0 +1,6 @@
+set(A "a b")
+set(B "c\;d")
+set(C "e;f")
+foreach(item IN LISTS A B C)
+	message(${item})
+endforeach()

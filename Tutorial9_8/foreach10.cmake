@@ -1,0 +1,6 @@
+set(A a b c d)
+set(B e f g h)
+set(C i j k l)
+foreach(item IN ZIP_LISTS A B C)
+	message(${item_0} ${item_1} ${item_2})
+endforeach()

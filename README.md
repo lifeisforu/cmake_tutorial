@@ -29,3 +29,5 @@
 [9-6. CMake 언어 : 조건 블록](https://blog.naver.com/lifeisforu/222676597839)
 
 [9-7. CMake 언어 : 리스트](https://blog.naver.com/lifeisforu/222676721241)
+
+[9-8. CMake 언어 : foreach 반복 블록](https://blog.naver.com/lifeisforu/222678124245)
