@@ -1,0 +1,8 @@
+set(MyList a b c d e)
+list(LENGTH MyList MyListLength)
+set(count 0)
+while(${count} LESS ${MyListLength})
+    list(GET MyList ${count} item)
+    message(${item})
+    math(EXPR count "${count} + 1")
+endwhile()
