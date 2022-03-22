@@ -1,0 +1,20 @@
+macro(foo)
+	message("before foo return")
+	return()
+	message("after foo return")
+endmacro()
+
+function(foo2)
+	message("begin foo2")
+	foo()
+	message("end foo2")
+endfunction()
+
+function(foo3)
+	message("begin foo3")
+	return()
+	message("end foo3")
+endfunction()
+
+foo2()
+foo3()
