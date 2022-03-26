@@ -35,3 +35,5 @@
 [9-9. CMake 언어 : while 반복 블록](https://blog.naver.com/lifeisforu/222679143482)
 
 [9-10. CMake 언어 : 명령 정의 블록(함수, 매크로)](https://blog.naver.com/lifeisforu/222680173276)
+
+[10. 일반 문자열 조작](https://blog.naver.com/lifeisforu/222683348115)

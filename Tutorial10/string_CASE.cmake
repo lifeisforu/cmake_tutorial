@@ -1,0 +1,5 @@
+set(mixed "My name is Lifeisforu")
+string(TOLOWER ${mixed} lower)
+string(TOUPPER ${mixed} upper)
+message(${lower})
+message(${upper})

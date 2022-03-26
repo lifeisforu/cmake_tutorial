@@ -1,0 +1,5 @@
+set(src "A")
+string(CONCAT result1 ${src} ${src} ${src} ${src} ${src} ${src})
+string(REPEAT ${src} 6 result2)
+message(${result1})
+message(${result2})

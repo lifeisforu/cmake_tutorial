@@ -1,0 +1,5 @@
+set(my_string "hey hey hey")
+set(sub_string "ey")
+string(FIND ${my_string} ${sub_string} forward_index)
+string(FIND ${my_string} ${sub_string} backward_index REVERSE)
+message("${forward_index}, ${backward_index}") 

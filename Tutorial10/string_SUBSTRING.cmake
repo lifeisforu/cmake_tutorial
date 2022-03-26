@@ -1,0 +1,6 @@
+set(single "My name is Lifeisforu")
+set(multi "My 이름은 Lifeisforu")
+string(SUBSTRING ${single} 11 -1 single_result)
+string(SUBSTRING ${multi} 13 -1 multi_result)
+message(${single_result})
+message(${multi_result})
