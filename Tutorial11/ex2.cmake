@@ -1,0 +1,6 @@
+set(var "asdf ASDF")
+set(var2 "asdf asdf")
+string(REGEX REPLACE ".s" "X" result ${var})
+string(REGEX REPLACE ".s" "X" result2 ${var2})
+message(${result})
+message(${result2})

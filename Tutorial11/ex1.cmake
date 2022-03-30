@@ -1,0 +1,11 @@
+set(var "asdf ASDF")
+set(var2 "ASDF asdf")
+string(REGEX REPLACE "^a" "X" result ${var})
+string(REGEX REPLACE "^a" "X" result2 ${var2})
+message(${result})
+message(${result2})
+
+string(REGEX REPLACE "a" "X" result3 ${var})
+string(REGEX REPLACE "a" "X" result4 ${var2})
+message(${result3})
+message(${result4})

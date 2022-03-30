@@ -1,0 +1,5 @@
+set(var "a.sdf as.df asd.f")
+string(REGEX REPLACE "." "X" result ${var})
+string(REGEX REPLACE "\." "X" result2 ${var})
+message(${result})
+message(${result2})
