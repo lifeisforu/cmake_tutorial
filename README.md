@@ -39,3 +39,5 @@
 [10. 일반 문자열 조작](https://blog.naver.com/lifeisforu/222683348115)
 
 [11. 정규표현식](https://blog.naver.com/lifeisforu/222683400369)
+
+[12. 문자열 비교](https://blog.naver.com/lifeisforu/222688312307)
