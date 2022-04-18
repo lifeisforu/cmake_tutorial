@@ -45,3 +45,5 @@
 [13. 문자열 해싱과 문자열 생성](https://blog.naver.com/lifeisforu/222690702427)
 
 [14. 함수의 입력과 출력](https://blog.naver.com/lifeisforu/222696643854)
+
+[15. 생성기 표현식(Generator Expression)](https://blog.naver.com/lifeisforu/222696937466)
