@@ -1,0 +1,2 @@
+#cmakedefine IS_EDITOR
+#cmakedefine VERSION "@VERSION@"
