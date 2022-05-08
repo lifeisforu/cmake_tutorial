@@ -49,3 +49,5 @@
 [15. 생성기 표현식(Generator Expression)](https://blog.naver.com/lifeisforu/222696937466)
 
 [16. 구성 헤더](https://blog.naver.com/lifeisforu/222709070225)
+
+[17. 속성 개요](https://blog.naver.com/lifeisforu/222723929897)
