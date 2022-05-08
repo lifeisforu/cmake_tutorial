@@ -4,6 +4,7 @@ project(Tutorial17)
 
 add_library(foo STATIC ./foo/foo.cpp )
 set_target_properties(foo PROPERTIES
+	CXX_STANDARD 17
 	OUTPUT_NAME $<IF:$<CONFIG:Debug>,foo_d,foo>)
 	
 add_executable(main main.cpp)
