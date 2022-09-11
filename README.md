@@ -55,3 +55,5 @@
 [18-1. 설치(Install) 기본 옵션](https://blog.naver.com/lifeisforu/222724622641)
 
 [18-2. 설치(Install) 예제](https://blog.naver.com/lifeisforu/222862527688)
+
+[19. CMake Package: Find-Module](https://blog.naver.com/lifeisforu/222865624523)

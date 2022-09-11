@@ -1,1 +1,1 @@
-void printName();
+void printLibraryName();
