@@ -1,0 +1,22 @@
+cmake_minimum_required(VERSION 3.22)
+
+project(Tutorial20)
+
+set(VAR1 "root1")
+set(VAR2 "root2")
+
+message("CMAKE_SOURCE_DIR=${CMAKE_SOURCE_DIR}")
+message("CMAKE_BINARY_DIR=${CMAKE_BINARY_DIR}")
+message("CMAKE_CURRENT_SOURCE_DIR=${CMAKE_CURRENT_SOURCE_DIR}")
+message("CMAKE_CURRENT_BINARY_DIR=${CMAKE_CURRENT_BINARY_DIR}")
+message("VAR1=${VAR1}")
+message("VAR2=${VAR2}")
+
+add_subdirectory(foo)
+
+message("CMAKE_SOURCE_DIR=${CMAKE_SOURCE_DIR}")
+message("CMAKE_BINARY_DIR=${CMAKE_BINARY_DIR}")
+message("CMAKE_CURRENT_SOURCE_DIR=${CMAKE_CURRENT_SOURCE_DIR}")
+message("CMAKE_CURRENT_BINARY_DIR=${CMAKE_CURRENT_BINARY_DIR}")
+message("VAR1=${VAR1}")
+message("VAR2=${VAR2}")
