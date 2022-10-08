@@ -1,0 +1,15 @@
+macro(read_args)
+	message("ARGN = ${ARGN}")
+	foreach(arg IN LISTS ARGN)
+		set(CALLER_ARGN ${CALLER_ARGN} ${arg})
+	endforeach()
+	message("ARGN = ${CALLER_ARGN}")
+endmacro()
+
+function(func A B C)
+	set(CALLER_ARGN "")
+	read_args(h i j k l m n)
+	message("CALLER_ARGN = ${CALLER_ARGN}")
+endfunction()
+
+func(a b c d e f g)

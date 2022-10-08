@@ -61,3 +61,5 @@
 [20. add_subdirectory()](https://blog.naver.com/lifeisforu/222880801442)
 
 [21. include()](https://blog.naver.com/lifeisforu/222893672154)
+
+[22. 함수와 매크로의 인자 다루기](https://blog.naver.com/lifeisforu/222894880315)
